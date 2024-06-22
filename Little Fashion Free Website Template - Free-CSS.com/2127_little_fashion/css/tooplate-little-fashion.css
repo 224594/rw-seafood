@@ -12,7 +12,7 @@ https://www.tooplate.com/view/2127-little-fashion
 -----------------------------------------*/
 :root {
   --white-color:                #FFFFFF;
-  --primary-color:              #FF4400;
+  --primary-color:              #009F56;
   --section-bg-color:           #f0f8ff;
   --dark-color:                 #000000;
   --grey-color:                 #d0d1d1;
@@ -895,6 +895,8 @@ button:focus:not(:focus-visible) {
 
 .product-image {
   transition: all 0.5s ease-out;
+height: 250px;
+width: 296px
 }
 
 .product-thumb:hover .product-image {
